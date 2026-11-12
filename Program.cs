@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Question 1
+            // 1- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+            Console.WriteLine("hello");
+
+            #endregion
         }
     }
 }
